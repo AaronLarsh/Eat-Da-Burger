@@ -17,3 +17,9 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+.dBur {
+  float: left;
+  margin: 5px;
+  padding: 5px;
+}
