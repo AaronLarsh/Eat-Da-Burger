@@ -1,7 +1,34 @@
 .title, .col-12{
     text-align: center;
-    padding-bottom: 5px;
+
 }
-col-12{
+div.col-12{
     padding-bottom: 10px;
+}
+
+ul{
+    list-style-type: none;
+    border: solid;
+}
+li{
+    margin:10px;
+}
+
+button{
+    margin-left: 5px;
+}
+
+h2{
+    text-align: center;
+    border: solid;
+    padding: 10px;
+}
+
+form.create-form{
+    border:solid;
+    padding:10px;
+}
+
+h1.title{
+    border:solid;
 }
